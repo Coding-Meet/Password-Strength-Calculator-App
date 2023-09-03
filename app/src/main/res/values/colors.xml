@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightGray">#E3E3E3</color>
+    <color name="darkGray">#959595</color>
+    <color name="weak">#FF4646</color>
+    <color name="medium">#FF8F00</color>
+    <color name="strong">#FCCA3F</color>
+    <color name="very_strong">#00C853</color>
+</resources>
